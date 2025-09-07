@@ -74,6 +74,13 @@ http://<your-host>:1880/ui
 ```
 
 ---
+## Contribution & Adaptation
+
+- Add or customize sensors in `group06w_script.py` or `group06w_thread.py`.
+- Modify Node-RED dashboard elements (legends, charts) to fit your visualization needs.
+- Legends provided in `group06w_legend.docx` and `task_02L_legend.pdf` help with element mapping.
+
+---
 
 ## Credits
 - Developed as part of Semester 6B IoT Coursework.
